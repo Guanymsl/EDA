@@ -1,0 +1,17 @@
+.model hw3_1
+.inputs a b c
+.outputs f
+
+.names a b d
+10 1
+01 1
+
+.names b c e
+1- 1
+-1 1
+
+.names d e f
+11 1
+
+.end
+
